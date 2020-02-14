@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    贾强的家常菜
+                    贾强2的家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
